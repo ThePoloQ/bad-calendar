@@ -14,6 +14,7 @@ define('PREMIERE_LIGNE',4);
 $GLOBALS['mois']=array(
   'janv' => 1,
   'févr' => 2,
+  'fév' => 2,
   'mars' => 3,
   'avr'  => 4,
   'mai'  => 5,
